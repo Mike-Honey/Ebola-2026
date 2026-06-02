@@ -58,6 +58,15 @@ Interactive "slicer" controls at the right of the page allow the user to restric
 
 Once you have accessed a page in the interactive dataviz, you can access the other pages using the page navigation control at the bottom, which appears as: **< 1 of 3 >**
 
+## Repository layout
+
+```
+/Ebola-2026.pbix             Power BI project file - complete "code" for the dataviz solution
+data/
+  DRC_Health_zones.csv       Spatial data converted (using mapshaper.org) from shapefile for simpler integration with Power BI
+images/                      screenshots of the dataviz pages, presented in this README.md
+```
+
 ## Citations
 
 - [INRB-UMIE Ebola DRC 2026 project](https://github.com/INRB-UMIE/Ebola_DRC_2026?tab=readme-ov-file#readme)
