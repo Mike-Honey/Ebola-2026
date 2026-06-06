@@ -29,7 +29,7 @@ A table at the bottom lists the detailed data. The table can be filtered by sele
 
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZTQ3MmNhZDYtMDFhMS00MDdmLWFlNjctYzUyMTNiNDZlMTdjIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=8f4bac1c6bb88bb2df35)
 
-[![Click to view and interact with the report](https://github.com/Mike-Honey/Ebola-2026/raw/main/images/Ebola-2026-Metric-Time-Series-by-Geography.png)](https://app.powerbi.com/view?r=eyJrIjoiZTQ3MmNhZDYtMDFhMS00MDdmLWFlNjctYzUyMTNiNDZlMTdjIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=8f4bac1c6bb88bb2df35)
+[![Click to view and interact with the report](https://github.com/Mike-Honey/Ebola-2026/raw/main/images/Ebola-2026-Metric-Time-Series-by-Geography.PNG)](https://app.powerbi.com/view?r=eyJrIjoiZTQ3MmNhZDYtMDFhMS00MDdmLWFlNjctYzUyMTNiNDZlMTdjIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=8f4bac1c6bb88bb2df35)
 
 
 ### Metric Time Series (Small Multiples)
@@ -40,7 +40,7 @@ Interactive "slicer" controls at the right of the page allow the user to restric
 
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZTQ3MmNhZDYtMDFhMS00MDdmLWFlNjctYzUyMTNiNDZlMTdjIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=e803874f0ea76e3384c2)
 
-[![Click to view and interact with the report](https://github.com/Mike-Honey/Ebola-2026/raw/main/images/Ebola-2026-Metric-Time-Series-Small-Multiples.png)](https://app.powerbi.com/view?r=eyJrIjoiZTQ3MmNhZDYtMDFhMS00MDdmLWFlNjctYzUyMTNiNDZlMTdjIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=e803874f0ea76e3384c2)
+[![Click to view and interact with the report](https://github.com/Mike-Honey/Ebola-2026/raw/main/images/Ebola-2026-Metric-Time-Series-Small-Multiples.PNG)](https://app.powerbi.com/view?r=eyJrIjoiZTQ3MmNhZDYtMDFhMS00MDdmLWFlNjctYzUyMTNiNDZlMTdjIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=e803874f0ea76e3384c2)
 
 
 ### Metric Time Series by Geography (Small Multiples)
@@ -51,7 +51,7 @@ Interactive "slicer" controls at the right of the page allow the user to restric
 
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZTQ3MmNhZDYtMDFhMS00MDdmLWFlNjctYzUyMTNiNDZlMTdjIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=58e8b6f4cd0bcc5d8000)
 
-[![Click to view and interact with the report](https://github.com/Mike-Honey/Ebola-2026/raw/main/images/Ebola-2026-Metric-Time-Series-by-Geography-Small-Multiples.png)](https://app.powerbi.com/view?r=eyJrIjoiZTQ3MmNhZDYtMDFhMS00MDdmLWFlNjctYzUyMTNiNDZlMTdjIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=58e8b6f4cd0bcc5d8000)
+[![Click to view and interact with the report](https://github.com/Mike-Honey/Ebola-2026/raw/main/images/Ebola-2026-Metric-Time-Series-by-Geography-Small-Multiples.PNG)](https://app.powerbi.com/view?r=eyJrIjoiZTQ3MmNhZDYtMDFhMS00MDdmLWFlNjctYzUyMTNiNDZlMTdjIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=58e8b6f4cd0bcc5d8000)
 
 
 ### Page navigation
