@@ -61,11 +61,15 @@ Once you have accessed a page in the interactive dataviz, you can access the oth
 ## Repository layout
 
 ```
-/Ebola-2026.pbix             Power BI project file - complete "code" for the dataviz solution
+/Ebola-2026.pbix               Power BI project file - complete "code" for the dataviz solution
 data/
-  DRC_Health_zones.csv       Spatial data converted (using mapshaper.org) from shapefile for simpler integration with Power BI
-images/                      screenshots of the dataviz pages, presented in this README.md
+  DRC_Health_zones.csv         Spatial data converted (using mapshaper.org) from shapefile
+  Ebola-2026-manual-data.xlsx  Manual data, currently only for Health Zone "NA" in Ituri.
+images/                        screenshots of the dataviz pages, presented in this README.md
 ```
+
+The **DRC_Health_zones.csv** file is generated from [the INRB-UMIE project's shapefile](https://github.com/INRB-UMIE/BDBV2026-Data/tree/main/data/shapefiles), using [mapshaper.org](https://mapshaper.org)'s Export feature. That makes for simpler integration with Power BI, and that source file seldom changes.
+
 
 ## Citations
 
